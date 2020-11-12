@@ -1,6 +1,6 @@
 # sonar-project.properties
 ## A simple SonarQube config for generic Java projects   
-```
+``` YAML
 # must be unique in a given SonarQube instance
 sonar.projectKey=project:id
 
