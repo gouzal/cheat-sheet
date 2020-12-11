@@ -6,7 +6,7 @@ EXPOSE 8080
 ENTRYPOINT [ "java","-jar","JDock.jar" ]
 ```
 
-## Commands Procedure  
+## Commands    
 ### Stop the container(s) using the following command:  
 ```
 docker-compose down
