@@ -6,3 +6,4 @@ Yet another personal cheat sheet
 <a href="https://github.com/gouzal/cheat-sheet/blob/main/sonarqube.md">Go here</a>
 
 ## Basic default Configuration for Vagrant  
+<a href="https://github.com/gouzal/cheat-sheet/blob/main/vagrant.md">Go here</a>
